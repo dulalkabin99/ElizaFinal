@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48bcac5c-2f7f-42f9-a2ec-d6cd93bb8473" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Easter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Easter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2786">
+              <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4284#4301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Easter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="918" />
+    <option name="width" value="912" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ElizaHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElizaHashSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElizaHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElizaHashSet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElizaHashSet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElizaHashSet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Easter">
+    <configuration name="Easter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Easter" />
+      <module name="ElizaHashSet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ElizaHashSet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Easter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Easter" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48bcac5c-2f7f-42f9-a2ec-d6cd93bb8473" name="Default" comment="" />
+      <created>1528246604723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528246604723</updated>
+      <workItem from="1528246608654" duration="15277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3291367" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50040483" side_tool="true" weight="0.54316545" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32955465" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.54316545" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3291367" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11093117" />
+      <window_info anchor="right" id="Database" weight="0.32955465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24939272" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Easter.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Easter.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Easter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2786">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4284#4301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
