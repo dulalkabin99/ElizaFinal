@@ -26,10 +26,15 @@ public class Easter {
             } else if (s1.equals("caps")) {
                 String allCaps = toUpperCase(res);
                 System.out.println(allCaps);
-            } else if (s1.equals("pig")) {
+            }
+            else if (s1.equals("red")) {
+                System.out.println("\033[31;1m"+res+"\033[0m");
+            }
+                else if (s1.equals("pig")) {
                 String pigLatin = getLatinResponse(res);
                 System.out.println(pigLatin);
-            } else {
+            }
+            else {
                 System.out.println(res);
             }
             System.out.println("-----------------------------------------------------------------");
